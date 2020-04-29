@@ -15,6 +15,6 @@ function divide(a, b){
 }
 
 function increment(n){
-n++ 
+n++
 return n
 }
